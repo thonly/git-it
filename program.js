@@ -1,4 +1,6 @@
 "use strict";
+"use strict";
+"use strict";
 
 var sum = 0;
 
